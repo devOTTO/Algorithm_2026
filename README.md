@@ -1,7 +1,7 @@
-# Algorithm_2024
+# Algorithm_2026
 Personal Solution of Leetcode
 
-## [Leetcode](https://swexpertacademy.com/main/main.do)
+## [Leetcode](https://leetcode.com)
 
 ### [Leetcode beginners guide](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/)
 - [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/1480.cpp)
