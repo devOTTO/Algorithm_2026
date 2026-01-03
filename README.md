@@ -23,3 +23,4 @@ Personal Solution of Leetcode
 - [Two Sums](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/546.cpp)
 - [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) = [Solution](https://github.com/devOTTO/Algorithm_2024/blob/main/leetcode/Top_Interview_Questions_Easy_Array/769.cpp)
 - [Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)
+- [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
