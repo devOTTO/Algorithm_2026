@@ -26,4 +26,4 @@ Personal Solution of Leetcode
 - [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
 
 ### Daily Question
-- [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2026-01-03) = [Solution](https://github.com/devOTTO/Algorithm_2026/blob/main/leetcode/daily_question/1518.py)
+- [1518. Water Bottles(Easy)](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2026-01-03) = [Solution](https://github.com/devOTTO/Algorithm_2026/blob/main/leetcode/daily_question/1518.py)
