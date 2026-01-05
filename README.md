@@ -27,3 +27,4 @@ Personal Solution of Leetcode
 
 ### Daily Question
 - [1518. Water Bottles(Easy)](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2026-01-03) = [Solution](https://github.com/devOTTO/Algorithm_2026/blob/main/leetcode/daily_question/1518.py)
+- [3074. Apple Redistribution into Boxes(Easy)](https://leetcode.com/problems/apple-redistribution-into-boxes/?envType=daily-question&envId=2026-01-04) = [Solution](https://github.com/devOTTO/Algorithm_2026/blob/main/leetcode/daily_question/3074.py)
